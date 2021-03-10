@@ -1,0 +1,63 @@
+body{
+    background-color:#d3d3d3;
+}
+
+.container1{
+    background-color: white;
+}
+
+img{
+    width: 10%;
+}
+
+.home{
+    display: flex;
+    justify-content: center;
+}
+
+.container2, .container5{
+    background-color: white;
+    width: 400px;
+    height: 500px;
+    margin: 25px;    
+}
+
+.container3, .container4{
+    background-color: white;
+    width: 400px;
+    height: 600px;
+    margin: 25px;
+}
+
+.mamy{
+    display: flex;
+}
+
+.container3 img, .container4 img{
+    width: 100%;
+}
+
+.container h2{
+    display: flex;
+}
+
+.ble1 img,{
+    width: 45%;
+    justify-content: center;
+}
+
+.ble2 img{
+    width: 45%;
+    justify-content: center;
+}
+
+.ble3 img{
+    width: 45%;
+    justify-content: center;
+}
+
+.ble4 img{
+    width: 45%;
+    justify-content: center;
+}
+
